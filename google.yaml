@@ -4,6 +4,7 @@ payload:
   - '+.beacons.gvt2.com'
   - '+.beacons2.gvt2.com'
   - '+.beacons3.gvt2.com'
+  - '*.google.com'
   - '+.c.android.clients.google.com'
   - '+.cache.pack.google.com'
   - '+.checkin.gstatic.com'
