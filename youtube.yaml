@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-KEYWORD,youtube
+  - 'youtubei.googleapis.com'
+  - 'yt3.ggpht.com'
+  - '+.googlevideo.com'
+  - '+.googleusercontent.com'
+  - '+.gvt2.com'
+  - '+.youtu.be'
+  - '+.youtube.com'
+  - '+.ytimg.com'
