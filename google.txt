@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,gstaticadssl.l.google.com
 DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,imasdk.googleapis.com
@@ -44,6 +45,8 @@ DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,www-google-analytics.l.google.com
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 DOMAIN-SUFFIX,www.gstatic.com
+DOMAIN-SUFFIX,www.google.com
+DOMAIN-SUFFIX,www.gmail.com
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com
