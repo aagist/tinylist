@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,acgvideo.com
-DOMAIN,b23.tv
+DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
+DOMAIN-KEYWORD,biliv
